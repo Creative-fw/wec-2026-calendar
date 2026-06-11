@@ -1,0 +1,24 @@
+name: Sync FIA WEC 2026 calendar
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily 03:00 UTC (07:00 Dubai)
+  workflow_dispatch:        # manual run button
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch and repair FIA WEC feed
+        run: python wec_sync.py FIA_WEC_2026.ics
+      - name: Commit if changed
+        run: |
+          git config user.name "wec-sync-bot"
+          git config user.email "actions@github.com"
+          git add FIA_WEC_2026.ics
+          git diff --staged --quiet || git commit -m "Sync WEC calendar $(date -u +%F)"
+          git push
