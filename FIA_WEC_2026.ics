@@ -96,7 +96,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:prologue-imola-imola-morning-session@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Rome:20260414T090000
 DTEND;TZID=Europe/Rome:20260414T123000
 SUMMARY:WEC Prologue - Imola - IMOLA - MORNING SESSION
@@ -105,7 +105,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:prologue-imola-imola-afternoon-session@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Rome:20260414T140000
 DTEND;TZID=Europe/Rome:20260414T183000
 SUMMARY:WEC Prologue - Imola - IMOLA - AFTERNOON SESSION
@@ -114,7 +114,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-imola-free-practice-1@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Rome:20260417T101500
 DTEND;TZID=Europe/Rome:20260417T114500
 SUMMARY:WEC 6H Imola - Free Practice 1
@@ -123,7 +123,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-imola-free-practice-2@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Rome:20260417T151500
 DTEND;TZID=Europe/Rome:20260417T164500
 SUMMARY:WEC 6H Imola - Free Practice 2
@@ -132,7 +132,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-imola-free-practice-3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Rome:20260418T103000
 DTEND;TZID=Europe/Rome:20260418T113000
 SUMMARY:WEC 6H Imola - Free Practice 3
@@ -141,7 +141,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-imola-qualifying-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Rome:20260418T143000
 DTEND;TZID=Europe/Rome:20260418T144200
 SUMMARY:WEC 6H Imola - Qualifying - LMGT3
@@ -150,7 +150,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-imola-hyperpole-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Rome:20260418T145000
 DTEND;TZID=Europe/Rome:20260418T150000
 SUMMARY:WEC 6H Imola - Hyperpole - LMGT3
@@ -159,7 +159,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-imola-qualifying-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Rome:20260418T151000
 DTEND;TZID=Europe/Rome:20260418T152200
 SUMMARY:WEC 6H Imola - Qualifying - HYPERCAR
@@ -168,7 +168,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-imola-hyperpole-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Rome:20260418T153000
 DTEND;TZID=Europe/Rome:20260418T154000
 SUMMARY:WEC 6H Imola - Hyperpole - HYPERCAR
@@ -177,7 +177,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-imola-race@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Rome:20260419T130000
 DTEND;TZID=Europe/Rome:20260419T190000
 SUMMARY:🏁 WEC 6H Imola - Race
@@ -191,7 +191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-spa-francorchamps-free-practice-1@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260507T110000
 DTEND;TZID=Europe/Paris:20260507T123000
 SUMMARY:WEC 6H Spa-Francorchamps - Free Practice 1
@@ -200,7 +200,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-spa-francorchamps-free-practice-2@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260507T154000
 DTEND;TZID=Europe/Paris:20260507T171000
 SUMMARY:WEC 6H Spa-Francorchamps - Free Practice 2
@@ -209,7 +209,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-spa-francorchamps-free-practice-3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260508T101000
 DTEND;TZID=Europe/Paris:20260508T111000
 SUMMARY:WEC 6H Spa-Francorchamps - Free Practice 3
@@ -218,7 +218,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-spa-francorchamps-qualifying-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260508T143000
 DTEND;TZID=Europe/Paris:20260508T144500
 SUMMARY:WEC 6H Spa-Francorchamps - Qualifying - LMGT3
@@ -227,7 +227,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-spa-francorchamps-hyperpole-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260508T145500
 DTEND;TZID=Europe/Paris:20260508T150700
 SUMMARY:WEC 6H Spa-Francorchamps - Hyperpole - LMGT3
@@ -236,7 +236,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-spa-francorchamps-qualifying-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260508T152000
 DTEND;TZID=Europe/Paris:20260508T153500
 SUMMARY:WEC 6H Spa-Francorchamps - Qualifying - HYPERCAR
@@ -245,7 +245,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-spa-francorchamps-hyperpole-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260508T154500
 DTEND;TZID=Europe/Paris:20260508T155700
 SUMMARY:WEC 6H Spa-Francorchamps - Hyperpole - HYPERCAR
@@ -254,7 +254,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-spa-francorchamps-race@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260509T140000
 DTEND;TZID=Europe/Paris:20260509T200000
 SUMMARY:🏁 WEC 6H Spa-Francorchamps - Race
@@ -268,7 +268,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:le-mans-test-day-1st-test-session@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260607T100000
 DTEND;TZID=Europe/Paris:20260607T130000
 SUMMARY:WEC Le Mans Test Day - 1st TEST SESSION
@@ -277,7 +277,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:le-mans-test-day-2nd-test-session@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260607T153000
 DTEND;TZID=Europe/Paris:20260607T183000
 SUMMARY:WEC Le Mans Test Day - 2nd TEST SESSION
@@ -286,7 +286,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-free-practice-1@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260610T140000
 DTEND;TZID=Europe/Paris:20260610T170000
 SUMMARY:WEC 24H Le Mans - Free Practice 1
@@ -295,7 +295,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-qualifying-lmp2-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260610T184500
 DTEND;TZID=Europe/Paris:20260610T191500
 SUMMARY:WEC 24H Le Mans - Qualifying - LMP2 & LMGT3
@@ -304,7 +304,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-qualifying-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260610T193000
 DTEND;TZID=Europe/Paris:20260610T200000
 SUMMARY:WEC 24H Le Mans - Qualifying - HYPERCAR
@@ -313,7 +313,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-free-practice-2@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260610T220000
 DTEND;TZID=Europe/Paris:20260611T000000
 SUMMARY:WEC 24H Le Mans - Free Practice 2
@@ -322,7 +322,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-free-practice-3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260611T144500
 DTEND;TZID=Europe/Paris:20260611T174500
 SUMMARY:WEC 24H Le Mans - Free Practice 3
@@ -331,7 +331,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-hyperpole-1-lmp2-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260611T200000
 DTEND;TZID=Europe/Paris:20260611T202000
 SUMMARY:WEC 24H Le Mans - Hyperpole 1 - LMP2 & LMGT3
@@ -340,7 +340,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-hyperpole-2-lmp2-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260611T203500
 DTEND;TZID=Europe/Paris:20260611T205000
 SUMMARY:WEC 24H Le Mans - Hyperpole 2 - LMP2 & LMGT3
@@ -349,7 +349,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-hyperpole-1-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260611T210500
 DTEND;TZID=Europe/Paris:20260611T212500
 SUMMARY:WEC 24H Le Mans - Hyperpole 1 - HYPERCAR
@@ -358,7 +358,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-hyperpole-2-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260611T214000
 DTEND;TZID=Europe/Paris:20260611T215500
 SUMMARY:WEC 24H Le Mans - Hyperpole 2 - HYPERCAR
@@ -367,7 +367,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-free-practice-4@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260611T230000
 DTEND;TZID=Europe/Paris:20260612T000000
 SUMMARY:WEC 24H Le Mans - Free Practice 4
@@ -376,7 +376,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-warm-up@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260613T120000
 DTEND;TZID=Europe/Paris:20260613T121500
 SUMMARY:WEC 24H Le Mans - Warm-up
@@ -385,7 +385,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:24h-le-mans-race@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Europe/Paris:20260613T160000
 DTEND;TZID=Europe/Paris:20260614T160000
 SUMMARY:🏁 WEC 24H Le Mans - Race
@@ -399,7 +399,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-sao-paulo-free-practice-1@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Sao_Paulo:20260710T110000
 DTEND;TZID=America/Sao_Paulo:20260710T123000
 SUMMARY:WEC 6H Sao Paulo - Free Practice 1
@@ -408,7 +408,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-sao-paulo-free-practice-2@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Sao_Paulo:20260710T155000
 DTEND;TZID=America/Sao_Paulo:20260710T172000
 SUMMARY:WEC 6H Sao Paulo - Free Practice 2
@@ -417,7 +417,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-sao-paulo-free-practice-3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Sao_Paulo:20260711T101000
 DTEND;TZID=America/Sao_Paulo:20260711T111000
 SUMMARY:WEC 6H Sao Paulo - Free Practice 3
@@ -426,7 +426,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-sao-paulo-qualifying-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Sao_Paulo:20260711T143000
 DTEND;TZID=America/Sao_Paulo:20260711T144200
 SUMMARY:WEC 6H Sao Paulo - Qualifying - LMGT3
@@ -435,7 +435,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-sao-paulo-hyperpole-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Sao_Paulo:20260711T145000
 DTEND;TZID=America/Sao_Paulo:20260711T150000
 SUMMARY:WEC 6H Sao Paulo - Hyperpole - LMGT3
@@ -444,7 +444,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-sao-paulo-qualifying-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Sao_Paulo:20260711T152500
 DTEND;TZID=America/Sao_Paulo:20260711T153700
 SUMMARY:WEC 6H Sao Paulo - Qualifying - HYPERCAR
@@ -453,7 +453,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-sao-paulo-hyperpole-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Sao_Paulo:20260711T154500
 DTEND;TZID=America/Sao_Paulo:20260711T155500
 SUMMARY:WEC 6H Sao Paulo - Hyperpole - HYPERCAR
@@ -462,7 +462,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-sao-paulo-race@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Sao_Paulo:20260712T113000
 DTEND;TZID=America/Sao_Paulo:20260712T123000
 SUMMARY:🏁 WEC 6H Sao Paulo - Race
@@ -476,7 +476,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lone-star-le-mans-free-practice-1@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Chicago:20260904T113000
 DTEND;TZID=America/Chicago:20260904T140000
 SUMMARY:WEC Lone Star Le Mans - Free Practice 1
@@ -485,7 +485,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:lone-star-le-mans-free-practice-2@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Chicago:20260904T163000
 DTEND;TZID=America/Chicago:20260904T180000
 SUMMARY:WEC Lone Star Le Mans - Free Practice 2
@@ -494,7 +494,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:lone-star-le-mans-free-practice-3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Chicago:20260905T110000
 DTEND;TZID=America/Chicago:20260905T120000
 SUMMARY:WEC Lone Star Le Mans - Free Practice 3
@@ -503,7 +503,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:lone-star-le-mans-qualifying-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Chicago:20260905T150000
 DTEND;TZID=America/Chicago:20260905T151200
 SUMMARY:WEC Lone Star Le Mans - Qualifying - LMGT3
@@ -512,7 +512,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:lone-star-le-mans-hyperpole-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Chicago:20260905T152000
 DTEND;TZID=America/Chicago:20260905T153000
 SUMMARY:WEC Lone Star Le Mans - Hyperpole - LMGT3
@@ -521,7 +521,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:lone-star-le-mans-qualifying-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Chicago:20260905T154000
 DTEND;TZID=America/Chicago:20260905T155200
 SUMMARY:WEC Lone Star Le Mans - Qualifying - HYPERCAR
@@ -530,7 +530,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:lone-star-le-mans-hyperpole-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Chicago:20260905T160000
 DTEND;TZID=America/Chicago:20260905T161000
 SUMMARY:WEC Lone Star Le Mans - Hyperpole - HYPERCAR
@@ -539,7 +539,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:lone-star-le-mans-race@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=America/Chicago:20260906T130000
 DTEND;TZID=America/Chicago:20260906T190000
 SUMMARY:🏁 WEC Lone Star Le Mans - Race
@@ -553,7 +553,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-fuji-free-practice-1@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Tokyo:20260925T101500
 DTEND;TZID=Asia/Tokyo:20260925T114500
 SUMMARY:WEC 6H Fuji - Free Practice 1
@@ -562,7 +562,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-fuji-free-practice-2@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Tokyo:20260925T143000
 DTEND;TZID=Asia/Tokyo:20260925T160000
 SUMMARY:WEC 6H Fuji - Free Practice 2
@@ -571,7 +571,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-fuji-free-practice-3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Tokyo:20260926T095000
 DTEND;TZID=Asia/Tokyo:20260926T105000
 SUMMARY:WEC 6H Fuji - Free Practice 3
@@ -580,7 +580,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-fuji-qualifying-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Tokyo:20260926T142000
 DTEND;TZID=Asia/Tokyo:20260926T143200
 SUMMARY:WEC 6H Fuji - Qualifying - LMGT3
@@ -589,7 +589,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-fuji-hyperpole-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Tokyo:20260926T144000
 DTEND;TZID=Asia/Tokyo:20260926T145000
 SUMMARY:WEC 6H Fuji - Hyperpole - LMGT3
@@ -598,7 +598,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-fuji-qualifying-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Tokyo:20260926T150000
 DTEND;TZID=Asia/Tokyo:20260926T151200
 SUMMARY:WEC 6H Fuji - Qualifying - HYPERCAR
@@ -607,7 +607,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-fuji-hyperpole-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Tokyo:20260926T152000
 DTEND;TZID=Asia/Tokyo:20260926T153000
 SUMMARY:WEC 6H Fuji - Hyperpole - HYPERCAR
@@ -616,7 +616,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:6h-fuji-race@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Tokyo:20260927T110000
 DTEND;TZID=Asia/Tokyo:20260927T170000
 SUMMARY:🏁 WEC 6H Fuji - Race
@@ -630,7 +630,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:qatar-1812km-free-practice-1@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Qatar:20261022T150000
 DTEND;TZID=Asia/Qatar:20261022T163000
 SUMMARY:WEC Qatar 1812km - Free Practice 1
@@ -639,7 +639,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:qatar-1812km-free-practice-2@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Qatar:20261022T193000
 DTEND;TZID=Asia/Qatar:20261022T210000
 SUMMARY:WEC Qatar 1812km - Free Practice 2
@@ -648,7 +648,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:qatar-1812km-free-practice-3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Qatar:20261023T130000
 DTEND;TZID=Asia/Qatar:20261023T140000
 SUMMARY:WEC Qatar 1812km - Free Practice 3
@@ -657,7 +657,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:qatar-1812km-qualifying-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Qatar:20261023T170000
 DTEND;TZID=Asia/Qatar:20261023T171200
 SUMMARY:WEC Qatar 1812km - Qualifying - LMGT3
@@ -666,7 +666,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:qatar-1812km-hyperpole-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Qatar:20261023T172000
 DTEND;TZID=Asia/Qatar:20261023T173000
 SUMMARY:WEC Qatar 1812km - Hyperpole - LMGT3
@@ -675,7 +675,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:qatar-1812km-qualifying-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Qatar:20261023T174000
 DTEND;TZID=Asia/Qatar:20261023T175200
 SUMMARY:WEC Qatar 1812km - Qualifying - HYPERCAR
@@ -684,7 +684,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:qatar-1812km-hyperpole-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Qatar:20261023T180000
 DTEND;TZID=Asia/Qatar:20261023T181000
 SUMMARY:WEC Qatar 1812km - Hyperpole - HYPERCAR
@@ -693,7 +693,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:qatar-1812km-race@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Qatar:20261024T130000
 DTEND;TZID=Asia/Qatar:20261024T230000
 SUMMARY:🏁 WEC Qatar 1812km - Race
@@ -707,7 +707,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8h-bahrain-free-practice-1@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Riyadh:20261105T121500
 DTEND;TZID=Asia/Riyadh:20261105T134500
 SUMMARY:WEC 8H Bahrain - Free Practice 1
@@ -716,7 +716,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:8h-bahrain-free-practice-2@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Riyadh:20261105T170000
 DTEND;TZID=Asia/Riyadh:20261105T183000
 SUMMARY:WEC 8H Bahrain - Free Practice 2
@@ -725,7 +725,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:8h-bahrain-free-practice-3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Riyadh:20261106T120000
 DTEND;TZID=Asia/Riyadh:20261106T130000
 SUMMARY:WEC 8H Bahrain - Free Practice 3
@@ -734,7 +734,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:8h-bahrain-qualifying-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Riyadh:20261106T160000
 DTEND;TZID=Asia/Riyadh:20261106T161200
 SUMMARY:WEC 8H Bahrain - Qualifying - LMGT3
@@ -743,7 +743,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:8h-bahrain-hyperpole-lmgt3@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Riyadh:20261106T162000
 DTEND;TZID=Asia/Riyadh:20261106T163000
 SUMMARY:WEC 8H Bahrain - Hyperpole - LMGT3
@@ -752,7 +752,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:8h-bahrain-qualifying-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Riyadh:20261106T164000
 DTEND;TZID=Asia/Riyadh:20261106T165200
 SUMMARY:WEC 8H Bahrain - Qualifying - HYPERCAR
@@ -761,7 +761,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:8h-bahrain-hyperpole-hypercar@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Riyadh:20261106T170000
 DTEND;TZID=Asia/Riyadh:20261106T171000
 SUMMARY:WEC 8H Bahrain - Hyperpole - HYPERCAR
@@ -770,7 +770,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:8h-bahrain-race@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Riyadh:20261107T140000
 DTEND;TZID=Asia/Riyadh:20261107T220000
 SUMMARY:🏁 WEC 8H Bahrain - Race
@@ -784,7 +784,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rookie-test-bahrain-morning-session@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Riyadh:20261108T100000
 DTEND;TZID=Asia/Riyadh:20261108T120000
 SUMMARY:WEC Rookie Test - Bahrain - MORNING SESSION
@@ -793,7 +793,7 @@ DESCRIPTION:Track-local time. Auto-synced from fiawec.com. Live: https://plus.fi
 END:VEVENT
 BEGIN:VEVENT
 UID:rookie-test-bahrain-afternoon-session@lgs-fiawec-2026
-DTSTAMP:20260613T064624Z
+DTSTAMP:20260614T071542Z
 DTSTART;TZID=Asia/Riyadh:20261108T130000
 DTEND;TZID=Asia/Riyadh:20261108T160000
 SUMMARY:WEC Rookie Test - Bahrain - AFTERNOON SESSION
